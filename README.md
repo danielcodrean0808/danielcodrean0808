@@ -17,7 +17,4 @@ Romanian, Russian and English
 - [multilingual-safety-eval](https://github.com/danielcodrean0808/multilingual-safety-eval): a small Python tool that sends the same prompts in English, Romanian and Russian to an LLM API and saves the answers for manual scoring (early stage, no results yet)
 - [daily-routine-app](https://github.com/danielcodrean0808/daily-routine-app): a work-in-progress SwiftUI iPhone app for personal finance planning and life goals
 
-## Contact
-📧 danielcodrean0808@gmail.com
-
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielcodrean0808&show_icons=true)
