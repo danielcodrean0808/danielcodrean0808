@@ -1,6 +1,6 @@
-# Hi, I'm Daniel Codrean 👋
+# Hi, I'm Daniel 👋
 
-I'm from Moldova and live in Northamptonshire, UK. I'm a first-year BSc Computer Science student at UCLan (University of Central Lancashire), London campus. Before that I studied Business and Languages at ULIM in Moldova and spent several years in office admin and team leader roles at Great Bear Distribution and Argos.
+I'm from Moldova and live in Northamptonshire, UK. I'm a first-year BSc Computer Science student at UCLan (University of Central Lancashire), London campus. Before that I studied Business and Languages at ULIM in Moldova. I've worked in operations and admin roles, most recently as an Office Administrator at Argos, a Transport Clerk at CTDI (Amazon) and a Shift Supervisor at IPL.
 
 ## What I'm learning
 - **Python** (Computer Programming module)
@@ -17,5 +17,6 @@ Romanian, Russian and English
 ## Projects
 - [multilingual-safety-eval](https://github.com/danielcodrean0808/multilingual-safety-eval): a small Python tool that sends the same prompts in English, Romanian and Russian to an LLM API and saves the answers for manual scoring (early stage, no results yet)
 - [daily-routine-app](https://github.com/danielcodrean0808/daily-routine-app): a work-in-progress SwiftUI iPhone app for personal finance planning and life goals
+- [daily-routine-ios](https://github.com/danielcodrean0808/daily-routine-ios): a small SwiftUI iPhone app for tracking daily routine tasks, with ticks that reset each day and tasks saved on the device
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielcodrean0808&show_icons=true)
