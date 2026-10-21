@@ -6,6 +6,7 @@ I'm from Moldova and live in Northamptonshire, UK. I'm a first-year BSc Computer
 - **Python** (Computer Programming module)
 - **MySQL** and database design (Database Design module)
 - **Swift and SwiftUI**, through my own iPhone app
+- **Xcode**, for building and testing my iOS apps
 
 ## What I'm interested in
 **AI safety, especially how it differs across languages.** AI models are mostly safety-tested in English, and safety training does not always carry over to other languages. I use ChatGPT, Claude and Grok, and I'm building small tools to compare how they respond to the same prompts in English, Romanian and Russian.
